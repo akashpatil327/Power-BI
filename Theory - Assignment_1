@@ -1,0 +1,32 @@
+1. What do you mean by BI? Explain.
+Ans: Business Intelligence (BI) refers to technologies, applications and practices for the collection, integration, analysis, and presentation of business information. 
+     The purpose of Business Intelligence is to support better business decision making.
+     
+2.How Power-BI helps in BI, and how does it help Analysts? Explain.
+Ans: It aids management teams in making fast decisions without jeopardizing the company’s profitability. Data visualization is made simple with Power BI. 
+    The user-friendly drag-and-drop interface makes it easy to answer complex data-related questions without the need for programming skills. 
+    i. Extract data insights with no coding skills required:
+    This simplicity lowers the barrier for users to perform advanced analytics such as trend analyses, regressions, and statistical summaries.
+    ii. Democratize data insights with dashboards:
+       Power BI comes with many reporting features for users to readily create well-designed interactive dashboards. It can also connect to a wide range of data sources and can help you create powerful data models (e.g. SQL Server, Excel spreadsheets, Amazon Redshift, etc.). As a result, 
+       these dashboards can be enriched with comprehensive data from various applications across the organization.
+       
+3. Explain Descriptive analytics
+Ans: Descriptive analytics is the interpretation of historical data to better understand changes that have occurred in a business. 
+    Descriptive analytics describes the use of a range of historic data to draw comparisons.
+    
+4. Explain Predictive analytics?
+Ans: Predictive analytics is a branch of advanced analytics that makes predictions about future outcomes using historical data combined with statistical modeling, data mining techniques and machine learning. 
+
+5 Explain perspective analytics?
+Ans: Prescriptive analytics is a type of data analytics—the use of technology to help businesses make better decisions through the analysis of raw data.
+
+6. Write five real-life questions that PowerBi can solve.
+Ans: 1.visualizations which can be shared at the touch of a button.
+     2.Using Power BI reduces the possibility of error by allowing reports to be run in seconds using only the most current data. 
+     This ensures that reports can’t be altered or deleted and eliminates the time spent sifting through files to find the correct data.
+     3. Excessive Time Spent Preparing For Presentations
+     4.Sifting through spreadsheets in search of specific data sets is time-consuming and inefficient. One of the most useful Power BI solutions is the ability to easily search for data and data-sets.
+     5. While business intelligence offers a lot of useful information, not everyone knows how to use it. Even with the numbers in plain view, 
+       it can be difficult to determine whether or not your business is successful and what areas need improvement. Using Power BI’s Question & Answer feature,
+       it’s now possible to ask your software these questions using natural language. Ask what your profits were for that month or how customer subscription numbers compare to last year’s.
